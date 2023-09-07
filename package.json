@@ -1,0 +1,95 @@
+{
+  "name": "legends",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@chain-registry/keplr": "^1.10.0",
+    "@chain-registry/utils": "^1.4.0",
+    "@chakra-ui/icons": "^2.0.13",
+    "@chakra-ui/layout": "^2.1.11",
+    "@chakra-ui/react": "^2.4.3",
+    "@cosmjs/stargate": "^0.29.5",
+    "@cosmos-kit/core": "^0.27.9",
+    "@cosmos-kit/keplr": "^0.32.10",
+    "@cosmos-kit/react": "^0.27.4",
+    "@cosmos-kit/trust": "^0.13.10",
+    "@emotion/react": "^11.10.5",
+    "@emotion/styled": "^11.10.5",
+    "@popperjs/core": "^2.11.6",
+    "@testing-library/jest-dom": "^5.16.5",
+    "@testing-library/react": "^13.4.0",
+    "@testing-library/user-event": "^13.5.0",
+    "@walletconnect/mobile-registry": "^1.4.0",
+    "@walletconnect/qrcode-modal": "^1.8.0",
+    "@zxing/library": "^0.19.1",
+    "bootstrap": "^5.2.3",
+    "browser-router": "^0.2.0",
+    "browser-utils": "^0.0.3",
+    "browserify": "^17.0.0",
+    "chain-registry": "^1.6.0",
+    "cosmjs-types": "^0.6.0",
+    "cosmodal": "^0.3.1",
+    "crypto": "^1.0.1",
+    "crypto-es": "^1.2.7",
+    "crypto-js": "^4.1.1",
+    "expo": "^47.0.1",
+    "expo-barcode-scanner": "^12.1.0",
+    "expo-status-bar": "^1.4.2",
+    "framer-motion": "^7.6.19",
+    "path": "^0.12.7",
+    "path-browserify": "^1.0.1",
+    "qr-scanner": "^1.4.2",
+    "qrcode": "^1.5.1",
+    "react": "^18.2.0",
+    "react-async": "^10.0.1",
+    "react-bootstrap": "^2.7.0",
+    "react-dom": "^18.2.0",
+    "react-native-web": "^0.18.10",
+    "react-qr-code": "^2.0.9",
+    "react-qr-scanner": "^1.0.0-alpha.11",
+    "react-router-dom": "^6.4.5",
+    "react-scripts": "5.0.1",
+    "react-zxing": "^1.0.7",
+    "uuid": "^9.0.0",
+    "web-vitals": "^3.1.0",
+    "zxing-qr-reader": "^2.1.0"
+  },
+  "scripts": {
+    "start": "react-app-rewired start",
+    "build": "react-app-rewired build",
+    "test": "react-app-rewired test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "@types/node": "15.12.5",
+    "assert": "^2.0.0",
+    "buffer": "^6.0.3",
+    "crypto-browserify": "^3.12.0",
+    "https-browserify": "^1.0.0",
+    "os-browserify": "^0.3.0",
+    "process": "^0.11.10",
+    "react-app-rewired": "^2.2.1",
+    "react-scripts": "5.0.1",
+    "stream-browserify": "^3.0.0",
+    "stream-http": "^3.2.0",
+    "url": "^0.11.0"
+  }
+}

@@ -1,0 +1,43 @@
+{
+        "id": 1,
+        "name": "Product 1",
+        "image": "https://backendbase.com/i/p/GR60_13.jpg",
+        "price": 9.99,
+        "description": "This is product 1"
+    },
+    {
+        "id": 2,
+        "name": "Product 2",
+        "image": "https://static.wixstatic.com/media/bf939a_c9287d38d6ce4ee285390a531d82484e~mv2.png/v1/fill/w_500,h_500,al_c,q_90,usm_0.66_1.00_0.01/bf939a_c9287d38d6ce4ee285390a531d82484e~mv2.webp",
+        "price": 19.99,
+        "description": "This is product 2"
+    },
+    {
+        "id": 3,
+        "name": "Product 3",
+        "image": "https://via.placeholder.com/300x200.png?text=Product+3",
+        "price": 29.99,
+        "description": "This is product 3"
+    },
+    {
+        "id": 4,
+        "name": "Product 4",
+        "image": "https://via.placeholder.com/300x200.png?text=Product+4",
+        "price": 39.99,
+        "description": "This is product 4"
+    },
+    {
+        "id": 5,
+        "name": "Product 5",
+        "image": "https://via.placeholder.com/300x200.png?text=Product+5",
+        "price": 49.99,
+        "description": "This is product 5"
+    },
+    {
+        "id": 6,
+        "name": "Product 6",
+        "image": "https://via.placeholder.com/300x200.png?text=Product+6",
+        "price": 59.99,
+        "description": "This is product 6"
+    }
+]
